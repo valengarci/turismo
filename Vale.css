@@ -1,0 +1,97 @@
+
+body {
+    background: #f3cdff;
+    }
+.container {
+     margin: 0 auto;
+     width: 1360px;
+        }
+.places{
+    float: left;
+    width: 860px;
+    }
+    .titulo {
+    margin: 0 auto;
+    width: 960px;
+    border: 1px solid #5e199f;
+    background: #f1d4fa;
+    margin-bottom: 20px;
+    padding: 10px;
+    color: #5e199f;
+    text-decoration: bold;
+        }
+        .giratorio{
+            margin: 0 auto;
+            width: 960px;  
+            border: 1px solid #5e199f;
+            background: #f1d4fa;
+            margin-bottom: 20px;
+            padding: 10px;  
+            font-family: "Georgia", "Times New Roman", "Lucida Sans Unicode", Verdana,
+            sans-serif;
+            line-height: 1.6;
+                    }
+                    .igreja{
+                        margin: 0 auto;
+                        width: 960px;
+                        border: 1px solid #5e199f;
+                        background: #f1d4fa;
+                        margin-bottom: 20px;
+                        padding: 10px;
+                        font-family: "Georgia", "Times New Roman", "Lucida Sans Unicode", Verdana,
+                        sans-serif;
+                        line-height: 1.6;
+                    }
+                                .pico{
+                                    margin: 0 auto;
+                                    width: 960px;
+                                    border: 1px solid #5e199f;
+                                    background: #f1d4fa;
+                                    margin-bottom: 20px;
+                                    padding: 10px;
+                                    font-family: "Georgia", "Times New Roman", "Lucida Sans Unicode", Verdana,
+                                    sans-serif;
+                                    line-height: 1.6;
+                                            }
+                                            .clear{
+                                                clear: both;
+                                            }
+                                            .giratorio img {
+                                                border: 1px solid #5e199f;
+                                                float: left;
+                                                margin: 10px 10px 0 0;
+                                                padding: 2px;
+                                                width: 300px
+                                                }
+                                                .igreja img {
+                                                    border: 1px solid #5e199f;
+                                                    float: left;
+                                                    margin: 10px 10px 0 0;
+                                                    padding: 2px;
+                                                    width: 300px
+                                                    }
+                                                .pico img {
+                                                    border: 1px solid #5e199f;
+                                                    float: left;
+                                                    margin: 10px 10px 0 0;
+                                                    padding: 2px;
+                                                    width: 300px
+                                                    }
+                                                    .sidenote {
+                                                    font-size: 16px;
+                                                    font-family: "Georgia", "Times New Roman", "Lucida Sans Unicode", Verdana, sans-serif;
+                                                    margin-top: 0px;
+                                                    margin-bottom: 20px;
+                                                    background-color: #f1d4fa;
+                                                    border: 1px solid #5e199f;
+                                                    float: right;
+                                                    padding: 10px;
+                                                    width: 260px;
+                                                    }
+                                                    .place a {
+                                                        color: #5e199f;
+                                                        font-weight: bold;
+                                                        font-family: "Georgia", "Times New Roman", "Lucida Sans Unicode", Verdana,
+                                                        sans-serif;
+                                                            }
+                                                    
